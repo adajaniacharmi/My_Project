@@ -1,2 +1,2 @@
 # My_Project
-My work
+I have attached the work i have done in SQL, Python & PowerBI.
