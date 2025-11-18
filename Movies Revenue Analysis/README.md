@@ -24,4 +24,4 @@ In this project, Microsoft Excel was utilized to analyze movie revenue data alon
 Through this analysis and visualization project, valuable insights were obtained regarding movie revenue trends, distributor performance, and genre-wise revenue distribution. These insights can be utilized to optimize distribution strategies, genre selection, and distributor partnerships, ultimately enhancing overall business performance. Each task contributes to a comprehensive understanding of the movie business landscape, empowering stakeholders to make informed decisions for success.
 
 ### Dashboard:
-![Image alt text]
+![Image alt text](https://github.com/adajaniacharmi/My_Project/blob/14041f5e477d6dd949587dd10e6cbbb949caa17f/Movies%20Revenue%20Analysis/Movie_Revenue_Dashboard.png)
