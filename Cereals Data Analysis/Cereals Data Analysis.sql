@@ -1,13 +1,23 @@
-### Overview
-This project explores cereal nutrition, analyzing a dataset from seven manufacturers to gain insights into nutrient and elemental content, potentially reshaping your cereal choices and perceptions.
+CREATE DATABASE PROJECT2;
+USE PROJECT2;
 
-### Technologies Used
-- SQL
-- MySQL
-- MySQL Workbench
+SELECT * FROM cereal;
 
-### Queries
-```
+/*
+FIELDS IN THE DATAET
+name = Name of ceral
+mfr = Manufacturer of cereal
+A = American Home Food Products
+G = Genreal Mills
+K = Kellogs
+N = Nabisco
+P = Post
+Q = Quaker Oats
+R = Ralston Purina
+type: C = Cold & H = Hot
+*/
+
+
 -- 1. What is the average content of each nutrient and element per manufacturer?
 SELECT mfr,
        AVG(calories) AS avg_calories,
@@ -47,3 +57,6 @@ LIMIT 1;
 -- Let's assume nutritional value is the sum of protein, fat, and carbohydrates.
 SELECT name, (protein + fat + carbo) AS nutritional_value
 FROM cereal;
+
+
+/* These SQL queries should help you gain insights into the dataset regarding nutrient content, manufacturer ratings, and more. */
