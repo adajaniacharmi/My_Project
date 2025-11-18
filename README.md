@@ -1,4 +1,4 @@
-Data Analysis Portfolio by Charmi
+** Data Analysis Portfolio by Charmi **
 Welcome! I'm Charmi, a data analyst with a Master’s in Computer Engineering and hands-on experience in Power BI, Python, SQL, and Excel. This portfolio showcases my journey through real-world projects, dashboards, and insights that blend technical depth with business relevance.
 
 Featured Projects
