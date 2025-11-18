@@ -1,6 +1,6 @@
 # Projects
 ### Data Analysis and Data Visualization Projects with Excel
-1. [Bike Sales Analysis](https://github.com/aravindbc/Data-Analysis-Projects/tree/fdb3cdc939a27863107ef90948f6f02d6ce9aa2d/Bike%20Sales%20Analysis) : Data manipulation and visualization using Microsoft Excel
+1. [Bike Sales Analysis](https://github.com/adajaniacharmi/My_Project/tree/main/Bike%20Sales%20Analysis) : Data manipulation and visualization using Microsoft Excel
 2. [Movie Revenue Analysis](https://github.com/adajaniacharmi/My_Project/tree/main/Movies%20Revenue%20Analysis) : Data manipulation and visualization using Microsoft Excel
 ### Data Analysis Projects with SQL
 1. [Supermarket Sales Analysis](https://github.com/adajaniacharmi/My_Project/tree/main/Supermarket%20Sales%20Analysis) : Data analysis through querying using SQL (MySQL)
