@@ -18,4 +18,4 @@ This project involves analyzing bike sales data across various regions and occup
 - Roughly 20% of bike purchasers have daily commutes of 0-1 mile.
 
 ### Dashboard
-![Image alt text]("Bike Sales Analysis/Bike_Sales_Dashboard.png")
+![Image alt text]("[Bike Sales Analysis/Bike_Sales_Dashboard.png](https://github.com/adajaniacharmi/My_Project/blob/78be353c357eca4e3797dbba0b9277b5bce30fcd/Bike%20Sales%20Analysis/Bike_Sales_Dashboard.png)")
