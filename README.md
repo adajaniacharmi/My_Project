@@ -3,7 +3,6 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Level**: Beginner  
 **Database**: `p1_retail_db`
 
 The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and getting specific business insights through SQL queries. 
